@@ -240,4 +240,4 @@ client.on("message", async (message) => {
   }
 });
 
-client.login("MTMxNTc5Mzk5NjU4MDI2MTk0OA.Gkz4TG.xXQbI3tSKw1gHnPsSqxQLiF6FssMPYkWGL7d74");
+client.login("MTMxNTc5Mzk5NjU4MDI2MTk0OA.GI9Cgb.MlezsIxuv2oMT86wGaOdMFPEAxwZ9IdQL75kAA");
